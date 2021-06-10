@@ -2,7 +2,7 @@
 This tutorial discusses how to configure the Tensorflow Object Detection API in windows and how implement custom object detection.
 
 # Credits & Links
-Download Tensorflow Object Detection API
+<a href="https://github.com/tensorflow/models"> Download Tensorflow Object Detection API </a>
 
 # Installing the Tensorflow Object Detection API
 1. Download the tensorflow object detection api from Github
