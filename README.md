@@ -18,7 +18,7 @@ This tutorial discusses how to configure the Tensorflow Object Detection API in 
 3. Download the files from this repository
 4. Copy and paste protoc.exe file in the path models-master\research
 5. Open the Commmand Prompt in models-master\research and copy and run the command included in protoc command.txt
-6. Copy the files object_detection_tutorial.ipynb, 1.0 Customized Object Detection.ipynb & 1.1 Customized Object Detection-Video.ipynb into models-master\research
+6. Copy the files object_detection_tutorial.ipynb into models-master\research
 7. Run above codes and check
 
 
