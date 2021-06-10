@@ -8,7 +8,7 @@ Download Tensorflow Object Detection API
 1. Download the tensorflow object detection api from Github
 2. Open the Anaconda Prompt and install the dependencies for windows.
 
-pip install tensorflow
+pip install tensorflow <br/>
 pip install Cython
 pip install contextlib2
 pip install pillow
